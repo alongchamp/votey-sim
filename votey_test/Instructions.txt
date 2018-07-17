@@ -1,0 +1,12 @@
+Instruction Document:
+
+Note: This was tested on a pc with 1920 by 1080 screen resolution. 
+      There may be problems if not the same resolution. 
+      If there are any problems feel free to talk to Lisa (after shes seen the presentation) or any of our group members.
+
+Need to Know Information: 
+Move green square (Maggie) with up, down, left right arrow keys to the different students (blue squares)
+Hover over green square, changes to pink.
+Question and professor dots will appear when Maggie overlaps a student.
+Professor names are next to their appropriate dot.
+Answer question by clicking on correct professor dot.
